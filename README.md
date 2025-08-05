@@ -4,7 +4,7 @@
 > If you don’t fight, you can’t win!”  
 > — *Eren Jaeger*
 
-![Header]([https://i.imgur.com/wV2zzJz.gif](https://imgur.com/gallery/rumbling-cI9M2HS#IAGH1vW))
+![Header](https://i.imgur.com/IAGH1vW.mp4))
 
 ## 👋 Halo, saya Gansputra!
 Seorang pemula yang sedang dalam perjalanan menaklukkan dunia pemrograman.  
@@ -32,9 +32,6 @@ Saat ini lagi fokus di:
 ---
 
 ## 🌀 Fun Fact
-
-<img align="right" src="https://media.giphy.com/media/LUZrE5vZqympEjxLxU/giphy.gif" width="200">
-
 - Saya suka coding sembari mendengarkan 🎧  
 - Karakter anime Favorit?.. Jelass tentu EREN YEAGERR  
 - Gua percaya: *"Koding adalah tatakae melawan rasa malas :v."*
