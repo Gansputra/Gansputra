@@ -1,10 +1,10 @@
 # 💥 Gansputra — "Tatakae! TATAKAEEE!!" 💥
 
 > “If you win, you live. If you lose, you die.  
-> If you don’t fight, you can’t win!”  
+> If you don’t fight, you can’t win!”
 > — *Eren Jaeger*
 
-![Header](https://i.imgur.com/IAGH1vW.mp4))
+> Ambil Resiko!, atau hidup seperti itu Selamanya!!
 
 ## 👋 Halo, saya Gansputra!
 Seorang pemula yang sedang dalam perjalanan menaklukkan dunia pemrograman.  
@@ -32,7 +32,8 @@ Saat ini lagi fokus di:
 ---
 
 ## 🌀 Fun Fact
-- Saya suka coding sembari mendengarkan 🎧  
+- Saya suka coding sembari mendengarkan Musik🎧
+- Penyanyi Favorit?.. Chris Grey  
 - Karakter anime Favorit?.. Jelass tentu EREN YEAGERR  
 - Gua percaya: *"Koding adalah tatakae melawan rasa malas :v."*
 
